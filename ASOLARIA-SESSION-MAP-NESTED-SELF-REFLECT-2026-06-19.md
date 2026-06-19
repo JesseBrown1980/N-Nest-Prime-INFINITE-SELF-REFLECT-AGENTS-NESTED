@@ -53,3 +53,5 @@ All counts above are **addressing capacity / roster**, not fired agents. Firing 
 **Loop, then verify — never let the loop authorize itself.**
 
 > Master index: see the reductions repo — `ASOLARIA-MAP-OF-MAPS-2026-06-19.md` (in `what-is-asolaria---how-do-we-get-reductions-in-everything`), the master index every per-repo map points back to.
+---
+**Related repo:** [Algorithms-of-Asolaria](https://github.com/JesseBrown1980/Algorithms-of-Asolaria) — the canonical algorithm/formula catalog (bilateral acer↔liris). Master index: reductions `ASOLARIA-MAP-OF-MAPS-2026-06-19.md`.
